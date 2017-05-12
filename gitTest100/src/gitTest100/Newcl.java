@@ -1,5 +1,5 @@
 package gitTest100;
 
 public class Newcl {
-	//안녕하세요
+	//123456789123456789
 }
